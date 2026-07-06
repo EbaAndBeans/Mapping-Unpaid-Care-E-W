@@ -1,0 +1,6 @@
+cluster,number_of_msoas,mean_unpaid_care,mean_care_20_plus,mean_care_50_plus,mean_65_plus,mean_old_age_dependency,mean_economically_inactive,mean_retired,mean_student,mean_looking_after_home_family,mean_long_term_sick_disabled,mean_white,mean_ethnic_diversity,mean_cluster_distance,cluster_name
+1,1198,7.418,4.16,2.203,10.476,0.156,36.894,11.568,7.959,7.585,4.77,46.399,0.604,4.3,diverse younger urban care-context areas
+2,2450,9.854,4.635,2.896,26.51,0.467,42.959,30.551,3.413,3.501,3.241,95.376,0.087,2.129,older retirement-heavy areas
+3,1306,10.501,6.453,3.885,17.794,0.289,42.743,21.037,4.491,5.894,7.579,90.678,0.163,2.629,high-care health-limited areas
+4,2139,8.131,3.753,2.216,16.857,0.267,34.148,19.778,4.479,4.108,3.105,85.161,0.255,2.578,mixed working-age areas
+5,171,5.387,2.383,1.312,9.183,0.119,49.904,9.49,31.908,2.923,3.019,71.685,0.431,4.594,student-heavy low-care areas

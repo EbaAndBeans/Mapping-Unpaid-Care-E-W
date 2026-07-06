@@ -1,0 +1,5 @@
+target_label,target_column,model,test_mae,test_r2
+care_20_plus,pct_care_20_plus_2021,Bayesian Ridge,0.4762,0.7978
+care_20_plus,pct_care_20_plus_2021,Gradient Boosting,0.3993,0.8537
+any_unpaid_care,pct_unpaid_care_any_2021,Bayesian Ridge,0.6463,0.7598
+any_unpaid_care,pct_unpaid_care_any_2021,Gradient Boosting,0.5724,0.8101

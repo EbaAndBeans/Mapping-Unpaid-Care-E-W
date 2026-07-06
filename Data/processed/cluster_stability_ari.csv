@@ -1,0 +1,6 @@
+comparison,adjusted_rand_index
+7 vs 7,1.0
+7 vs 21,1.0
+7 vs 42,0.9684
+7 vs 100,0.9688
+7 vs 123,0.9684
